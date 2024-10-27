@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0bab2260-c101-4c9d-9f07-378e36e5d8e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonRefresher.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_variables/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_string_formatting/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_getting_user_input/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_first_python_app/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_lists_tuples_sets/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_advanced_set_operations/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_if_with_in/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_loops/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_list_comprehension/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_default_parameter_values/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_lambda_functions/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_dictionary_comprehensions/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_unpacking_arguments/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_unpacking_keyword_arguments/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2noYW3wY3gGADmM1TFzFDv3Osst" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.code.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/yevhen/PycharmProjects/RestAPI/pythonRefresher",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c69650fc56ca-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15619.17" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bab2260-c101-4c9d-9f07-378e36e5d8e7" name="Changes" comment="" />
+      <created>1729640923906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729640923906</updated>
+    </task>
+    <servers />
+  </component>
+</project>
